@@ -1,6 +1,9 @@
 # React Recipe App using React Router and API
 ![recipe_app](recipe_app.png)
 
+![recipe_app_view](recipe_app_view.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
